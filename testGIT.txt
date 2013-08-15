@@ -3,3 +3,5 @@ was soll das?
 hier ist devion aufm Rechner
 
 was neues Eingeben
+
+git clone -b my-branch git@github.com:user/myproject.git
