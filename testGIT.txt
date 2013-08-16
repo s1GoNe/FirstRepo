@@ -1,5 +1,6 @@
 was soll das?
 
+HEAD
  und hier was neues eingegeben
 asdas
 
@@ -8,6 +9,7 @@ hier ist  master aufm Rechner
 lalaa
 
 
+66c60a80027e9b8b72d94c0b514fe6771c2e55b
 
 hier ist devion aufm Rechner
 
@@ -17,3 +19,4 @@ git clone -b my-branch git@github.com:user/myproject.git
 
 
 insert
+566c60a80027e9b8b72d94c0b514fe6771c2e55b
